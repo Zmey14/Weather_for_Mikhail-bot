@@ -1,0 +1,21 @@
+{
+  "update_id": 717483121,
+  "message": {
+    "message_id": 159,
+    "from": {
+      "id": 204452754,
+      "is_bot": false,
+      "first_name": "Mikhail",
+      "username": "Mishkaneshishka",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 204452754,
+      "first_name": "Mikhail",
+      "username": "Mishkaneshishka",
+      "type": "private"
+    },
+    "date": 1605778412,
+    "text": "/уфа"
+  }
+}
